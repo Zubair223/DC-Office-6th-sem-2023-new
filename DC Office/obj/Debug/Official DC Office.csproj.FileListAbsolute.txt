@@ -1,0 +1,210 @@
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\Official DC Office.dll.config
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\Official DC Office.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\Official DC Office.pdb
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\csc.exe
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\csc.exe.config
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\csc.rsp
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\csi.exe
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\csi.rsp
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\System.AppContext.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\vbc.exe
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\vbc.exe.config
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\vbc.rsp
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.AssemblyReference.cache
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.CoreCompileInputs.cache
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.CopyComplete
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.pdb
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\MailKit.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\BouncyCastle.Crypto.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\System.Buffers.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\System.Memory.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\MailKit.pdb
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\MailKit.xml
+C:\Users\Zubair Ahamd\source\repos\Official DC Office\Official DC Office\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\Official DC Office.dll.config
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\Official DC Office.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\Official DC Office.pdb
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\csc.exe
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\csc.exe.config
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\csc.rsp
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\csi.exe
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\csi.rsp
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\System.AppContext.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\vbc.exe
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\vbc.exe.config
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\vbc.rsp
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\MailKit.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\BouncyCastle.Crypto.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\System.Buffers.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\System.Memory.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\MailKit.pdb
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\MailKit.xml
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.dll
+C:\Users\HP\OneDrive\Desktop\New folder\repos\Official DC Office\Official DC Office\obj\Debug\Official DC Office.pdb
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\csc.exe
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\csc.exe.config
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\csc.rsp
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\csi.exe
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\csi.rsp
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.AppContext.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\vbc.exe
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\vbc.exe.config
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\vbc.rsp
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\MailKit.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\BouncyCastle.Crypto.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\System.Buffers.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\System.Memory.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\MailKit.pdb
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\MailKit.xml
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\itextsharp.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\itextsharp.xml
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\itextsharp.xmlworker.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Magnum.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Magnum.xml
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\o.dll.config
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\o.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\o.pdb
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\o.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\o.pdb
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.AvalonDock.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.Toolkit.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\OneDrive\Desktop\Project\Official DC Office\Official DC Office\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\o.dll.config
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\o.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\o.pdb
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\BouncyCastle.Crypto.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\itextsharp.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\itextsharp.xmlworker.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Magnum.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\MailKit.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.AvalonDock.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Xceed.Wpf.Toolkit.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\System.Buffers.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\System.Memory.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\itextsharp.xml
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Magnum.xml
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\MailKit.pdb
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\MailKit.xml
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\Official DC Office.csproj.CopyComplete
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\o.dll
+C:\Users\hp\Desktop\Project\Official DC Office\Official DC Office\obj\Debug\o.pdb
